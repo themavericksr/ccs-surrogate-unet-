@@ -70,7 +70,7 @@ pressure buildup   gas saturation
 ## Quick start
 
 ```bash
-git clone https://github.com/nhoyidi-nsan/ccs-surrogate-unet
+git clone https://github.com/themavericksr/ccs-surrogate-unet-
 cd ccs-surrogate-unet
 pip install -r requirements.txt
 
