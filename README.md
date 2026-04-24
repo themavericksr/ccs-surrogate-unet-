@@ -4,7 +4,7 @@
 
 A dual-output U-Net trained to replace expensive numerical reservoir simulation for CCS feasibility screening — predicting full spatiotemporal fields of CO₂ pressure buildup and gas saturation across 24 simulation timesteps from reservoir property inputs alone.
 
-Built as part of the GEMS4-CCS machine learning challenge at Imperial College London.
+Built as part of a machine learning challenge at Imperial College London.
 
 ---
 
