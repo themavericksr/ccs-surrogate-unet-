@@ -155,4 +155,5 @@ scipy>=1.10
 ## References
 
 - Ronneberger, O., Fischer, P., Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI.
+- Wen, Gege, Catherine Hay, and Sally M. Benson. "CCSNet: A deep learning modeling suite for CO2 storage." Advances in Water Resources 155 (2021): 104009.
 - GEMS4-CCS dataset — Imperial College London MSc Geo-energy with ML and Data Science module.
